@@ -1,0 +1,5 @@
+AutoTrust blockchain server running on http://localhost:3001
+LAN frontend: http://10.2.0.2:5173
+LAN API: http://10.2.0.2:3001
+LAN frontend: http://172.17.131.112:5173
+LAN API: http://172.17.131.112:3001
